@@ -1,0 +1,75 @@
+body{
+  background-image: url("immagini/background.jpg");
+  background-size: cover;
+}
+
+.container{
+  margin: auto;
+  background-color: rgba(0,0,0,0.5);
+  border-radius: 15px;
+  width: 1000px;
+  height: 700px;
+  padding: 25px;
+  font-family: 'Baloo 2', cursive;
+}
+.subject{
+  width: 800px;
+  margin: auto;
+}
+
+.logo{
+  width: 200px;
+  display: block;
+  margin: 0px auto;
+  text-align: center;
+  opacity: 100;
+}
+
+h1{
+  color: #00ff00;
+  text-align: center;
+}
+
+.input{
+  background-color: #00ff00;
+  width: 98% ;
+  display: inline-block;
+  text-align: center;
+  border: 10px solid #00ff00;
+}
+
+.checkbox{
+  display: inline-block;
+}
+
+.Monopattino{
+  color: white;
+  display: inline-block;
+  font-size: 20px;
+  margin: auto;
+}
+
+p{
+  color: white;
+  display: block;
+  font-size: 15px;
+  margin: auto;
+}
+
+.stato1{
+  color: orange;
+  background-color: orange;
+  border-radius: 2px;
+}
+
+.stato2{
+  color: green;
+  background-color: green;
+  border-radius: 2px;
+}
+
+.stato3{
+  color: red;
+  background-color: red;
+  border-radius: 2px;
+}
